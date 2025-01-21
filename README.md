@@ -17,7 +17,7 @@ The primary objectives of this project are to:
 2. **Machine Learning Predictions:**  
    - A machine learning algorithm was used to predict churn probabilities.  
    - Customers with high churn probabilities were identified for retention strategies.
-   - 
+   
 ### **Tools and Technologies**  
 - **Power BI:** For visualization and dashboard creation.  
 - **Excel:** Used for initial data cleaning and preprocessing.  
