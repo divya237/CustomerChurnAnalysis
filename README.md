@@ -1,15 +1,15 @@
 # Customer Churn Analysis
 
-### **Overview**  
+### 🗒️**Overview**  
 This project focuses on analyzing customer churn using an interactive Power BI dashboard. The analysis provides key insights into churned customers, highlights patterns and trends, and predicts the likelihood of customer churn using machine learning techniques.
 
-### **Objective**  
+### 💡**Objective**  
 The primary objectives of this project are to:  
 - Identify factors contributing to customer churn.  
 - Provide a detailed analysis of churned customers through visualizations.  
 - Predict the probability of churn for each customer using machine learning models.  
 
-### **Key Insights**  
+### 📊**Key Insights**  
 1. **Customer Trends:**  
    - Majority of churned customers fall under specific demographics (e.g., tenure, region, or service type).  
    - Contract type and customer service interactions heavily influence churn rates.  
@@ -18,12 +18,12 @@ The primary objectives of this project are to:
    - A machine learning algorithm was used to predict churn probabilities.  
    - Customers with high churn probabilities were identified for retention strategies.
    
-### **Tools and Technologies**  
+### 🛠️**Tools and Technologies**  
 - **Power BI:** For visualization and dashboard creation.  
 - **Excel:** Used for initial data cleaning and preprocessing.  
 - **Python/ML Algorithm:** Used to train and apply a machine learning model to predict churn probabilities.  
 
-### **Dataset:** C:\Users\divya chauhan\Desktop\Excel_dataset\Telco Customer Churn.csv
+### 📂**Dataset:** C:\Users\divya chauhan\Desktop\Excel_dataset\Telco Customer Churn.csv
 ### **Predicted Dataset:** C:\Users\divya chauhan\Desktop\Excel_dataset\Telco_Customer_Churn_Predictions.csv
 
 ### **Project Workflow**  
